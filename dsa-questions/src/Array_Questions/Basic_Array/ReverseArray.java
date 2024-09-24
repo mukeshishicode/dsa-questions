@@ -20,7 +20,6 @@ public class ReverseArray {
 		for(int k=0;k<=res.length-1;k++) {
 		System.out.print(res[k]+ " ");
 		}
-
 	}
 
 }
