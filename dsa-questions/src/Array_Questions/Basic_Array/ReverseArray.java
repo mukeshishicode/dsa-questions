@@ -1,7 +1,7 @@
 package Array_Questions.Basic_Array;
 
 public class ReverseArray {
-	
+	//logic
 	public static int[] reverse(int a[]) {
 		int i=0;
 		int j=a.length-1;
@@ -12,7 +12,6 @@ public class ReverseArray {
 			i++;
 			j--;
 		}
-		
 		return a;
 		
 	}
